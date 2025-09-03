@@ -1,2 +1,2 @@
 # portfolio-website
-Simple Web *still learning
+Simple Web
